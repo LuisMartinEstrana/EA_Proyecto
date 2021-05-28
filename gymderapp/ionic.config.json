@@ -1,0 +1,7 @@
+{
+  "name": "gymderapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
